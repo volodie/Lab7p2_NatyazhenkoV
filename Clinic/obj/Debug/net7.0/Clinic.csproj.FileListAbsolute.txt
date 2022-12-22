@@ -1,0 +1,15 @@
+F:\visualstudio\rep\Clinic\Clinic\bin\Debug\net7.0\Clinic.exe
+F:\visualstudio\rep\Clinic\Clinic\bin\Debug\net7.0\Clinic.deps.json
+F:\visualstudio\rep\Clinic\Clinic\bin\Debug\net7.0\Clinic.runtimeconfig.json
+F:\visualstudio\rep\Clinic\Clinic\bin\Debug\net7.0\Clinic.dll
+F:\visualstudio\rep\Clinic\Clinic\bin\Debug\net7.0\Clinic.pdb
+F:\visualstudio\rep\Clinic\Clinic\obj\Debug\net7.0\Clinic.csproj.AssemblyReference.cache
+F:\visualstudio\rep\Clinic\Clinic\obj\Debug\net7.0\Clinic.GeneratedMSBuildEditorConfig.editorconfig
+F:\visualstudio\rep\Clinic\Clinic\obj\Debug\net7.0\Clinic.AssemblyInfoInputs.cache
+F:\visualstudio\rep\Clinic\Clinic\obj\Debug\net7.0\Clinic.AssemblyInfo.cs
+F:\visualstudio\rep\Clinic\Clinic\obj\Debug\net7.0\Clinic.csproj.CoreCompileInputs.cache
+F:\visualstudio\rep\Clinic\Clinic\obj\Debug\net7.0\Clinic.dll
+F:\visualstudio\rep\Clinic\Clinic\obj\Debug\net7.0\refint\Clinic.dll
+F:\visualstudio\rep\Clinic\Clinic\obj\Debug\net7.0\Clinic.pdb
+F:\visualstudio\rep\Clinic\Clinic\obj\Debug\net7.0\Clinic.genruntimeconfig.cache
+F:\visualstudio\rep\Clinic\Clinic\obj\Debug\net7.0\ref\Clinic.dll
